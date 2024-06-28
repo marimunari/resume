@@ -1,0 +1,11 @@
+.card {
+  margin-bottom: 20px;
+}
+
+.resume__technical-abilities figure {
+  width: 100px;
+}
+
+.resume__technical-abilities figure img {
+  height: 35px;
+}
